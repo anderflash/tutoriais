@@ -13,7 +13,7 @@ author: Anderson Tavares
 </div>
 ![](../images/gtk-button.png)
 
-Oi, pessoal. Neste tutorial iniciaremos nossas atividades com os controles. Um conceito precisa ser explicado nessa jornada. Os componentes contém outros componentes, formando uma árvore estruturada. A esse padrão, damos o nome de [Composite![](../images/externallink.png)](http://pt.wikipedia.org/wiki/Composite). Esse nome não é específico de GTK, mas de uma área denominado [Design Patterns![](../images/externallink.png)](http://pt.wikipedia.org/wiki/Padr%C3%A3o_de_projeto_de_software), que nasceu com a necessidade de catalogar estruturas entre objetos que são comuns nas aplicações, com vantagens e desvantagens.
+Oi, pessoal. Neste tutorial iniciaremos nossas atividades com os controles. Um conceito precisa ser explicado nessa jornada. Os componentes contém outros componentes, formando uma árvore estruturada. A esse padrão, damos o nome de [Composite![](../images/externallink.png)](http://pt.wikipedia.org/wiki/Composite). Esse nome não é específico de GTK, mas de uma área denominado [Design Patterns![](../images/externallink.png)](http://pt.wikipedia.org/wiki/Padr%C3%A3o_de_projeto_de_software), que nasceu com a necessidade de catalogar estruturas e relações entre objetos que aparecem com bastante frequência nas aplicações, com vantagens e desvantagens.
 
 A janela será um _Composite_ que conterá um botão como componente filho. 
 

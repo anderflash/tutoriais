@@ -98,12 +98,12 @@ Muita coisa pode ser alterada, como por exemplo o título, o tamanho inicial, se
 
 ## Exercícios
 
-1. Crie uma janela com o título `Exercício GTK Hello World` ([`gtk_window_set_title`](https://developer.gnome.org/gtk3/unstable/GtkWindow.html#gtk-window-set-title))
-2. Crie uma janela com o tamanho 800x600 ([`gtk_window_set_default_size`](https://developer.gnome.org/gtk3/unstable/GtkWindow.html#gtk-window-set-default-size))
-3. Crie uma janela que não seja redimensionável ([`gtk_window_set_resizable`](https://developer.gnome.org/gtk3/unstable/GtkWindow.html#gtk-window-set-resizable))
-4. Crie uma janela que apareça centralizada ao ser executada ([`gtk_window_set_position(GTK_WIN_POS_CENTER)`](https://developer.gnome.org/gtk3/unstable/GtkWindow.html#gtk-window-set-position)).
+1. Crie uma janela com o título `Exercício GTK Hello World` ([`gtk_window_set_title`![](../images/externallink.png)](https://developer.gnome.org/gtk3/unstable/GtkWindow.html#gtk-window-set-title))
+2. Crie uma janela com o tamanho 800x600 ([`gtk_window_set_default_size`![](../images/externallink.png)](https://developer.gnome.org/gtk3/unstable/GtkWindow.html#gtk-window-set-default-size))
+3. Crie uma janela que não seja redimensionável ([`gtk_window_set_resizable`![](../images/externallink.png)](https://developer.gnome.org/gtk3/unstable/GtkWindow.html#gtk-window-set-resizable))
+4. Crie uma janela que apareça centralizada ao ser executada ([`gtk_window_set_position(GTK_WIN_POS_CENTER)`![](../images/externallink.png)](https://developer.gnome.org/gtk3/unstable/GtkWindow.html#gtk-window-set-position)).
 
-O código para o gtk-hello.c está [aqui](http://www.github.com/anderflash/gtk-hello.c)
+O código para o gtk-hello.c está [aqui](https://github.com/anderflash/tutoriais/tree/master/src/gtk/gtk-hello.c)
 
 <div class="tutlinks">
   <span class="linkesquerdo"><a href=

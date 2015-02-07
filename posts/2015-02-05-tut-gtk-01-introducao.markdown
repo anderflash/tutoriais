@@ -10,7 +10,7 @@ author: Anderson
 
 ![](../images/gtk-introducao2.png)
 
-Olá pessoal, este é meu primeiro tutorial sobre GTK+. Todo o código estará disponível no [github](http://www.github.com/anderflash/tutorialgtkglibgobject).
+Olá pessoal, este é meu primeiro tutorial sobre GTK+. Todo o código estará disponível no [github](https://github.com/anderflash/tutoriais/tree/master/src/gtk).
 
 Inicialmente trabalharemos com 3 tipos de componentes:
 
